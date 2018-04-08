@@ -1,4 +1,4 @@
-  ## Project: BAY AREA BIKE SHARE.\
+  ## Project: BAY AREA BIKE SHARE.
   
   - This project was built from [Udacity](https://udacity.com).\
   **Bay Area Bike Share** is a company that provides on-demand bike rentals for customers in San Francisco, Redwood City, Palo Alto, Mountain View, and San Jose. 
